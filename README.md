@@ -14,6 +14,11 @@
 #### Currently Learning
 [![inertia][inertia]][inertia-url]
 
+#### Certifications
+[![owasp-top10][owasp-top10]][owasp-top10-url]
+[![secure-coding][secure-coding]][secure-coding-url]
+[![ssp-general][ssp-general]][ssp-general-url]
+
 <!-- Badges -->
 [vue]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D
 [vue-url]: https://vuejs.org/
@@ -31,3 +36,12 @@
 [docker-url]: https://www.docker.com/
 [inertia]: https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=Inertia&logoColor=white
 [inertia-url]: https://inertiajs.com/
+
+[owasp-top10]: https://img.shields.io/badge/LLM202M%20--%20OWASP%20Top%2010-000000?style=for-the-badge&logo=owasp&logoColor=white
+[owasp-top10-url]: https://www.securitycompass.com/
+
+[secure-coding]: https://img.shields.io/badge/CSP104%20--%20Secure%20Software%20Coding-2E8B57?style=for-the-badge&logoColor=white
+[secure-coding-url]: https://www.securitycompass.com/
+
+[ssp-general]: https://img.shields.io/badge/Software%20Security%20Practitioner-General-1E90FF?style=for-the-badge&logoColor=white
+[ssp-general-url]: https://www.securitycompass.com/
